@@ -92,13 +92,13 @@ AI-Image-Description-Voice-App
  └── screenshot2.png
  
 ⚙️ Installation
-1 Clone the repository
+- 1 Clone the repository
 git clone https://github.com/Aravinda-Sai10/A-MULTIMODEL-GENERATIVE-AI-SYSTEM-FOR-ACTIVITY-DESCRIPTION-WITH-NATURAL-VOICE-OUTPUT.git
-2 Navigate to project directory
+- 2 Navigate to project directory
 cd A-MULTIMODEL-GENERATIVE-AI-SYSTEM-FOR-ACTIVITY-DESCRIPTION-WITH-NATURAL-VOICE-OUTPUT
-3 Install dependencies
+- 3 Install dependencies
 pip install -r requirements.txt
-4 Add API Key
+- 4 Add API Key
 
 Create a file:
 
@@ -120,10 +120,10 @@ The application will open in your browser.
 
 This project can be deployed easily on:
 
-Streamlit Cloud
-Render
-Hugging Face Spaces
-Docker environments
+- Streamlit Cloud
+- Render
+- Hugging Face Spaces
+- Docker environments
 
 Recommended platform:
 
@@ -131,42 +131,42 @@ Streamlit Cloud
 
 Steps:
 
-Push project to GitHub
-Connect repository to Streamlit Cloud
-Add API key in Secrets
-Deploy the application
+- Push project to GitHub
+- Connect repository to Streamlit Cloud
+- Add API key in Secrets
+- Deploy the application
 
 ## 📸 Example Workflow
 
-1️⃣ User registers an account
-2️⃣ User logs into the system
-3️⃣ User uploads an image
-4️⃣ Gemini Vision analyzes the image
-5️⃣ AI generates a scene description
-6️⃣ gTTS converts the description into voice
-7️⃣ User receives both text and audio output
+- 1️⃣ User registers an account
+- 2️⃣ User logs into the system
+- 3️⃣ User uploads an image
+- 4️⃣ Gemini Vision analyzes the image
+- 5️⃣ AI generates a scene description
+- 6️⃣ gTTS converts the description into voice
+- 7️⃣ User receives both text and audio output
 
 ## 🔮 Future Improvements
 
 Possible enhancements include:
 
-🎥 Video scene description
-🌍 Multilingual voice narration
-📷 Real-time camera input
-📱 Mobile responsive interface
-🧠 Fine-tuned vision-language models
-☁️ Hybrid cloud + offline AI processing
-📚 Learning Outcomes
+- 🎥 Video scene description
+- 🌍 Multilingual voice narration
+- 📷 Real-time camera input
+- 📱 Mobile responsive interface
+- 🧠 Fine-tuned vision-language models
+- ☁️ Hybrid cloud + offline AI processing
+- 📚 Learning Outcomes
 
 This project demonstrates practical experience in:
 
-Generative AI integration
-Vision-language models
-API-based AI systems
-Streamlit web application development
-Database authentication systems
-Text-to-Speech pipelines
-Secure API key handling
+- Generative AI integration
+- Vision-language models
+- API-based AI systems
+- Streamlit web application development
+- Database authentication systems
+- Text-to-Speech pipelines
+- Secure API key handling
 
 ## 👨‍💻 Author
 
@@ -178,6 +178,4 @@ B.Tech – Artificial Intelligence & Machine Learning
 This project is licensed under the MIT License.
 
 ## ⭐ Support
-If you found this project useful, consider starring the repository ⭐
-
 If you found this project useful, consider starring the repository ⭐
