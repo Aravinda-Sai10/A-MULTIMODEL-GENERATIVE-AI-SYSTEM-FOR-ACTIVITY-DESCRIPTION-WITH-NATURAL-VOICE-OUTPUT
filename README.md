@@ -14,15 +14,31 @@ The system also includes user authentication and an admin panel for managing reg
 
 This project highlights the potential of multimodal AI systems that combine vision, language generation, and speech technologies.
 
- ## ✨ Key Features
-🖼️ Upload images (JPG, JPEG, PNG)
-🤖 AI-generated scene descriptions using Gemini Vision
-🔊 Text-to-Speech voice narration
-🔐 Secure user authentication system
-👑 Admin panel to view registered users
-📊 SQLite database for user management
-⚡ Interactive UI built with Streamlit
-☁️ Deployable as a cloud web application
+## ✨ Key Features
+
+🖼️ **Image Upload**  
+Supports JPG, JPEG, PNG formats  
+
+🤖 **AI Description**  
+Uses Gemini Vision for scene understanding  
+
+🔊 **Voice Output**  
+Converts description into speech  
+
+🔐 **Authentication**  
+Secure login system  
+
+👑 **Admin Panel**  
+Manage registered users  
+
+📊 **Database**  
+SQLite backend  
+
+⚡ **UI**  
+Interactive Streamlit interface  
+
+☁️ **Deployment**  
+Cloud ready application  
 
 ##🏗️ System Architecture
 User
