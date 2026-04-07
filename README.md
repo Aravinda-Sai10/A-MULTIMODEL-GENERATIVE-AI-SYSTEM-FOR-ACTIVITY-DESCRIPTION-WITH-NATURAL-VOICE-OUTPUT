@@ -42,38 +42,36 @@ Cloud ready application
 
 ##🏗️ System Architecture
 User
-  │
-  ▼
+│
+▼
 Upload Image
-  │
-  ▼
+│
+▼
 Gemini Vision API
-(Image Understanding)
-  │
-  ▼
-Text Description Generation
-  │
-  ▼
-Text-to-Speech Conversion
-  │
-  ▼
-Voice Output + Text Display
-
+│
+▼
+Generate Description
+│
+▼
+Text to Speech
+│
+▼
+Voice + Text Output
 ## 🧠 Technologies Used
-Programming Language
-Python
-Framework
-Streamlit
-AI Model
-Google Gemini Vision API
-Database
-SQLite
-Libraries
-google-generativeai
-gTTS (Google Text-to-Speech)
-Pillow (Image processing)
-pandas
-hashlib (password hashing)
+**Programming Language**  
+**Python**
+**Framework**
+**Streamlit**
+**AI Model**
+**Google Gemini Vision API**
+**Database**
+**SQLite**
+**Libraries**
+**google-generativeai**
+**gTTS (Google Text-to-Speech)**
+**Pillow (Image processing)**
+**pandas**
+**hashlib (password hashing)**
 
 ## 🔐 Security Features
 Passwords are stored using SHA-256 hashing
